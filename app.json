@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
+  "name": "NM3",
+  "description": "Javascript WhatsApp bot made by Nethum Kaushalya",
   "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "keywords": ["NM3"],
   "success_url": "/",
 
   "env": {
